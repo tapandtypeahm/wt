@@ -1,0 +1,24 @@
+/* CSS Document */
+.navbar-wrapper2{
+	min-height:50px;
+	}
+.navbar-wrapper2 > .container{
+	background:white;
+	max-width:100%;
+	}	
+.navbar{
+	min-height:50px;
+	}	
+.navbar-header, .mtnav
+{
+	top:0px;
+	}	
+.mtslide{
+	top:0px;
+	}
+
+#dajy
+{
+
+	position:relative;
+	}
